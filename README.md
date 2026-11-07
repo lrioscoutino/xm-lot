@@ -26,4 +26,4 @@ flowchart TD
     CHECK_SPEC_COUNT -- NO --> GEN_SPEC
     CHECK_SPEC_COUNT -- SÍ --> DISP
     DISP --> END([FIN])
-```# xm-lot
+```
